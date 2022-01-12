@@ -15,7 +15,8 @@ The filters I have set to reduce the number is as shown in the image, drop-down 
 
 select file type as SDF and download format as wget
 
-![输入图片说明](02image.png)
+![image](https://user-images.githubusercontent.com/75652473/149164049-7e0dcd10-f4fa-4198-84e8-029d4dc8e008.png)
+
 
 
 Head to your Linux terminal and copy the wget file to a new file called download.sh
