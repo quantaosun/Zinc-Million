@@ -11,7 +11,8 @@ ZINC is one of the largest databases for small molecules entities, many of them 
 
 The filters I have set to reduce the number is as shown in the image, drop-down selection is lead-like.
 
-![输入图片说明](01image.png)
+![image](https://user-images.githubusercontent.com/75652473/149165029-5726b57b-ee6d-4340-9c6b-a5ad72fa3613.png)
+
 
 select file type as SDF and download format as wget
 
