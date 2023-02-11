@@ -15,8 +15,6 @@ The filters I have set to reduce the number is as shown in the image, drop-down 
 
 select file type as SDF and download format as wget,note the image below showed the wrong selection.
 
-![image](https://user-images.githubusercontent.com/75652473/149164049-7e0dcd10-f4fa-4198-84e8-029d4dc8e008.png)
-
 ## The current notebook can work well, but the next code is more simplified. This block is for process the downloaded database.
 
 ```
