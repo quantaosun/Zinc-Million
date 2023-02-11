@@ -3,4 +3,6 @@ Millions of small molecules will be downloaded from the ZINC database in 3D SDF 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/Zinc-Million/blob/master/Zinc_download.ipynb)
 
+### Click on the badge and select Run all to excute the whole notebook
+
 
