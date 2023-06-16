@@ -13,3 +13,7 @@ After loading the environment, double click the ipynb file to proceed.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/Zinc-Million/HEAD)
 
 ##### A word of warning to Binder users, you should download the result in time since the virtual environment is termperary.
+
+Updated on 16/06/2023
+
+https://github.com/RyanZR/labodock/blob/main/notebooks/virtual_screening.ipynb 
